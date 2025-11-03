@@ -15,9 +15,10 @@ export default function Contact() {
         </form>
 
         <div className="mt-6 text-sm text-slate-500">
-          Or email me directly: <a href="mailto:srijaly18@gmail.com" className="text-[var(--primary)]">srijaly18@gmail.com</a>
+          Or email me directly: <a href="mailto:srijaly18@gmail.com" className="text-[var(--primary)]">rakshit200430@gmail.com</a>
         </div>
       </div>
     </section>
   );
 }
+
